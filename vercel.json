@@ -1,0 +1,84 @@
+{
+  "redirects": [
+    {
+      "source": "/about",
+      "destination": "https://www.cobbleroadlabs.com/about",
+      "permanent": true
+    },
+    {
+      "source": "/services",
+      "destination": "https://www.cobbleroadlabs.com/services",
+      "permanent": true
+    },
+    {
+      "source": "/portfolio",
+      "destination": "https://www.cobbleroadlabs.com/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "https://www.cobbleroadlabs.com/contact",
+      "permanent": true
+    },
+    {
+      "source": "/legal/privacy-policy",
+      "destination": "https://www.cobbleroadlabs.com/legal/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/legal/terms-of-service",
+      "destination": "https://www.cobbleroadlabs.com/legal/terms-of-service",
+      "permanent": true
+    },
+    {
+      "source": "/legal/terms-of-use",
+      "destination": "https://www.cobbleroadlabs.com/legal/terms-of-service",
+      "permanent": true
+    },
+    {
+      "source": "/projects/electrical-engineering-landing-page",
+      "destination": "https://www.cobbleroadlabs.com/services/web-design-development",
+      "permanent": true
+    },
+    {
+      "source": "/projects/professional-printing-solutions-website",
+      "destination": "https://www.cobbleroadlabs.com/case-studies/professional-printing-solutions-website",
+      "permanent": true
+    },
+    {
+      "source": "/projects/structural-engineering-landing-page",
+      "destination": "https://www.cobbleroadlabs.com/services/web-design-development",
+      "permanent": true
+    },
+    {
+      "source": "/projects/sustainable-engineering-solutions-website",
+      "destination": "https://www.cobbleroadlabs.com/services/web-design-development",
+      "permanent": true
+    },
+    {
+      "source": "/blog/building-a-strong-online-brand-as-a-consulting-engineer",
+      "destination": "https://www.cobbleroadlabs.com/services/brand-identity",
+      "permanent": true
+    },
+    {
+      "source": "/blog/custom-website-development-why-a-one-size-fits-all-site-is-costing-you-clients",
+      "destination": "https://www.cobbleroadlabs.com/services/web-design-development",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seo-for-engineering-how-to-attract-more-clients-online",
+      "destination": "https://www.cobbleroadlabs.com/services/web-design-development",
+      "permanent": true
+    },
+    {
+      "source": "/blog/why-a-website-is-essential-for-your-business-success",
+      "destination": "https://www.cobbleroadlabs.com/services/web-design-development",
+      "permanent": true
+    },
+    {
+      "source": "/.*",
+      "destination": "https://www.cobbleroadlabs.com",
+      "permanent": true
+    }
+  ]
+}
