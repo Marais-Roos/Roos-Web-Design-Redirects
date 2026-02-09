@@ -76,7 +76,7 @@
       "permanent": true
     },
     {
-      "source": "/.*",
+      "source": "/(.*)",
       "destination": "https://www.cobbleroadlabs.com",
       "permanent": true
     }
